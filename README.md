@@ -3,7 +3,7 @@
 ## My skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,docker,vim,django,rails,react,nginx&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,docker,vim,django,rails,react,next,nginx&perline=5" />
   </a>
 </p>
 
